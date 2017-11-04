@@ -6,7 +6,7 @@ After Extraction you will find a database with sql format. Then you need to crea
 Then import this country_city database there. 
 For knowing even more about php/ajax/jquery then you can ask me question anytime on facebook. 
 @facebook
-facebook.com/arifulislammmc007
+www.facebook.com/arifulislammmc007
 
 @email
 arif98741@gmail.com
