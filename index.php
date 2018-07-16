@@ -11,8 +11,9 @@ if (file_exists('function.php')) {
         <style>
 
             body{
-                margin:0px;
+                margin:0px auto;
                 padding: 0px;
+                max-width: 600px;
             }
 
             .main{
@@ -21,9 +22,14 @@ if (file_exists('function.php')) {
                 text-align: center;
             }
             #country,#city{
-                width: 200px;
+                width: 500px;
                 height: 50px;
                 font-size: 18px;
+                margin: 0 auto;
+            }
+
+            select{
+                width: 600px;
             }
 
         </style>
