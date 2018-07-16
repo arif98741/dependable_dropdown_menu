@@ -17,7 +17,7 @@ if (file_exists('function.php')) {
             }
 
             .main{
-                width: 100px;
+               
                 margin: 50px auto;
                 text-align: center;
             }
