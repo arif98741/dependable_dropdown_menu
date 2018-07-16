@@ -17,7 +17,7 @@ if (file_exists('function.php')) {
             }
 
             .main{
-                width: 100px;
+                
                 margin: 50px auto;
                 text-align: center;
             }
@@ -56,6 +56,8 @@ if (file_exists('function.php')) {
                     <option value="">Select</option>
 
                 </select>
+                <br><br>
+                <button id="savebtn">Save Data</button>
             </div>
         </div>
 
